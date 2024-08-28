@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vispene.github.io/sitemap.html.gz
+Sitemap: https://vispene.github.io/app/sitemap.html.gz
+Sitemap: https://vispene.github.io/assets/sitemap.html.gz
+Sitemap: https://vispene.github.io/css/sitemap.html.gz
+Sitemap: https://vispene.github.io/includes/sitemap.html.gz
+Sitemap: https://vispene.github.io/item/sitemap.html.gz
+Sitemap: https://vispene.github.io/src/sitemap.html.gz
